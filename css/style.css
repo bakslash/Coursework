@@ -1,0 +1,36 @@
+body{
+    background-image: url(background-3.jpg);
+}
+
+#upleft { 
+    
+   width:200px; 
+   height: 600px; 
+   background:#988A87; float:left;
+    margin-left: 100px
+ 
+}
+
+#upright { 
+   width:800px; 
+   height:150px; 
+   background:snow; 
+   float:left;
+    
+}
+#below { 
+   height:600px; 
+   width:1000px; 
+   background:snow ;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+ul li{
+    float: left;
+    padding: 10px;
+}
+ol li{
+    float: left;
+    text-decoration: none;
+    padding: 5px;
+}
